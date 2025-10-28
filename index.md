@@ -49,7 +49,7 @@ Let’s translate Abbott’s essay into your triad:
 
 ---
 
-### 1. Physics: The Field of Constraints
+### 1. Physics: The Field of Constraints $(E, x$
 
 This is the article’s “data tells people what to do.”
 In ukb-language, that’s **$(E, x)$; where x = contexts e.g. Congo, Burundi, Rwanda, Tanzania, Uganda, Kenya (agents nested in places, self-similarly.. fractally across different scales** — potential energy across the organizational field.
@@ -63,7 +63,7 @@ But Abbott warns: data ≠ meaning. That’s why this base layer alone is **aper
 Here’s where leadership really happens.
 The **engineering layer** is the autoencoder that compresses (encodes with imperfect fidelity) and re-expands (decodes effects of attractors) the raw field:
 
-* Encoding: *story*, *narrative*, *ritual* → transforms $E, x)$ into $E(t \mid x) + ε$ (energy contextualized by time and noise = marker of imperfect engineering fidelity).
+* Encoding: *story*, *narrative*, *ritual* → transforms $(E, x)$ into $E(t \mid x) + ε$ (energy contextualized by time and noise = marker of imperfect engineering fidelity).
 * Gradient: *dE/dt* = execution, alignment, management (Abbott’s “first-time-right”).
 * Curvature: *d²E/dt²* = adaptation, innovation, problem-solving — the oscillation between convergence (tight coupling) and divergence (creative exploration).
 
