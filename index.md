@@ -118,7 +118,7 @@ Here’s how your **section C** would flow naturally after **B**, keeping full c
 
 # C
 
-> *Periodic × Aperiodic: The Convergent-Divergent Regime*
+> *Periodic × Aperiodic: The Convergent-Divergent Regime*           
 > -- OpenAI
 
 If **A** grounded the frame and **B** released the Dionysian noise term ε into the system, **C** is the reconciliation—how curvature becomes rhythm.
