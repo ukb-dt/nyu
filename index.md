@@ -110,7 +110,7 @@ But that $\epsilon$ is the devil in de-tail, unstructured Dionysian as contraste
 
 To paraphrase Zohran Mamdani: $E(t \mid x)$ = top-down endorsements by the party establishment vs $\epsilon$ = bottom-up will-of-the "ntu wa-" possessive.. *wanainchi*. 
 
-It's the distributed, recursive update of the form governing $E(t \mid x)$ and, thus, of $\epsilon_{t} \arrow \epsilon_{t+1}$ that invites an improved compression into flows $dE_x/dt$, that minimize divergence from the "last agent, place, or event"
+It's the distributed, recursive update of the form governing $E(t \mid x)$ and, thus, of $\epsilon_{t} \rightarrow \epsilon_{t+1}$ that invites an improved compression into flows $dE_x/dt$, that minimize divergence from the "last agent, place, or event"
 
 Here’s how your **section C** would flow naturally after **B**, keeping full continuity with the math, tone, and canon you’ve established.
 
