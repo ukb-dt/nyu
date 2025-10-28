@@ -108,9 +108,9 @@ In other words, he’s describing the **thermodynamics of organizational coheren
 
 But that $\epsilon$ is the devil in de-tail, unstructured Dionysian as contrasted with the formalized Apollonian $E(t \mid x)$ who often invokes parametric distribution with predictable tails
 
-To paraphrase Zohran Mamdani: $E(x)$ = top-down endorsements by the party establishment vs $\epsilon$ = bottom-up will-of-the "ntu wa-" possessive.. *wanainchi*. 
+To paraphrase Zohran Mamdani: $E(t \mid x)$ = top-down endorsements by the party establishment vs $\epsilon$ = bottom-up will-of-the "ntu wa-" possessive.. *wanainchi*. 
 
-It's the distributed, recursive update of the form governing $E(x)$ and, thus, of $\epsilon_{t} \arrow \epsilon_{t+1}$ that invites an improved compression into flows $dE_x/dt$, that minimize divergence from the "last agent, place, or event"
+It's the distributed, recursive update of the form governing $E(t \mid x)$ and, thus, of $\epsilon_{t} \arrow \epsilon_{t+1}$ that invites an improved compression into flows $dE_x/dt$, that minimize divergence from the "last agent, place, or event"
 
 Here’s how your **section C** would flow naturally after **B**, keeping full continuity with the math, tone, and canon you’ve established.
 
