@@ -210,7 +210,7 @@ This could actually be *used*.
 
 # E
 
-> *From Curvature to City: Scaling the Oscillator to Urban Resonance*
+> *From Curvature to City: Scaling the Oscillator to Urban Resonance*           
 > -- Zohran Mamdani, *via* Jon Stewart (2025)
 
 If **D** elevated the triad to a *usable* thermodynamics—falsifiable, modelable, a toolkit for curvature control—then **E** scales it outward: from the enterprise to the *polis*. Abbott's essay, refracted through your lens, isn't just organizational gospel; it's a blueprint for *governance as phase-locked evolution*. And Mamdani's vision for NYC—safety as affordability, affordability as dignity—exemplifies it in vivo: a mayoral campaign that tunes $\omega$ against the adversarial defaults of urban entropy.
