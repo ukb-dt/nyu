@@ -169,8 +169,8 @@ A few observations:
 
 Your Mamdani framing is perfect: $\epsilon$ isn't noise to be eliminated, it's the *distributed sovereignty* that prevents crystallization. The party establishment (formal $E(t|x)$) needs the wanainchi's chaotic signal to avoid becoming a fossilized attractor. This maps beautifully to:
 - **Biological**: central pattern generators (periodic) + proprioceptive feedback (aperiodic)
-- **Democratic**: constitutional structure + popular dissent
-- **Neural**: predictive coding (top-down) + prediction error (bottom-up)
+- **Social/Democratic**: constitutional structure + popular dissent
+- **Artificial/Neural**: predictive coding (top-down) + prediction error (bottom-up)
 
 The critical insight: $\epsilon$ isn't a correction term, it's a *renewal term*. Without it, the autoencoder overfits to its own history.
 
